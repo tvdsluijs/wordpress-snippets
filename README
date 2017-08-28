@@ -1,0 +1,26 @@
+# Wordpress snippets
+
+This project contains all kind of small scripts that work within the snippets plugin for wordpress
+
+## Getting Started
+
+These scripts work out of the box. Just install the snippets plugin.
+Copy and paste the code from one of the files.
+Save and activate (frontend or backend)
+
+### Prerequisites
+
+You only need the snippets plugin from 
+https://nl.wordpress.org/plugins/code-snippets/
+
+### Installing
+
+Copy the code within the file. Create a new snippet in wordpress. Paste the code in the new snippet. Save and activate.
+
+## Authors
+
+* **Theo van der Sluijs** - https://itheo.nl - theo@vandersluijs.nl
+
+## License
+
+These scripts are copyrighted. You can use on private sites. If you want to use on commercial sites please contact me : theo@vandersluijs.nl
