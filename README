@@ -10,7 +10,7 @@ Save and activate (frontend or backend)
 
 ### Prerequisites
 
-You only need the snippets plugin from 
+You only need the snippets plugin from
 https://nl.wordpress.org/plugins/code-snippets/
 
 ### Installing
@@ -23,4 +23,4 @@ Copy the code within the file. Create a new snippet in wordpress. Paste the code
 
 ## License
 
-These scripts are copyrighted. You can use on private sites. If you want to use on commercial sites please contact me : theo@vandersluijs.nl
+MIT 2022 Theo van der Sluijs
